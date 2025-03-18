@@ -1,6 +1,6 @@
 # NOOR AHMED
-📞 +44 7498 361133 | 📍 Sheffield | ✉️ [noor.ahmed232003@outlook.com](mailto:noor.ahmed232003@outlook.com) | 🌐 [Portfolio](https://p0rtf0li0-noor.netlify.app)  
-🔗 [LinkedIn](https://www.linkedin.com/in/noor-ahmed-b762b0225/)
+📞 +44 7498 361133 | 📍 Sheffield | ✉️ noor.ahmed232003@outlook.com | 🌐 Portfolio: p0rtf0li0-noor.netlify.app  
+🔗 LinkedIn: linkedin.com/in/noor-ahmed-b762b0225/
 
 ---
 
@@ -31,24 +31,24 @@ My interest in coding started in 2020 when I explored what could be achieved thr
 ### Software Engineer Intern | Flytag Flight Support
 **July 2022 – Oct 2023**  
 **Tech Stack:** React.JS, Node.JS, Express.JS, MSSQL  
-- Developed responsive React app on client and server-side - [Flytag App](https://flytagcalc.netlify.app)  
+- Developed responsive React app on client and server-side - Flytag App: flytagcalc.netlify.app  
 - Achieved 50% reduction in React code size by optimizing data storage with unique IDs in MSSQL Table and implementing streamlined Node.js API query for efficient data retrieval.  
 - Imported Excel Data into MSSQL and queried 100s of rows in the database.  
-- Created Node/Express REST API that can search through 100s of rows by ID - [Flytag API](https://flytag-api.onrender.com)  
+- Created Node/Express REST API that can search through 100s of rows by ID - Flytag API: flytag-api.onrender.com  
 
 ### Software Developer Intern | OpenGenus Foundation
 **May 2023 – July 2023**  
 **Tech Stack:** Python, Flask, React.JS, HTML/CSS, JavaScript  
-- Authored 10 blog articles on diverse topics, reaching an audience of 1000s on OpenGenus IQ platform: [OpenGenus IQ](https://iq.opengenus.org/author/noor/)  
+- Authored 10 blog articles on diverse topics, reaching an audience of 1000s on OpenGenus IQ platform: iq.opengenus.org/author/noor/  
 - Implemented a Python language translation program and developed Python, Flask, and HTML prime number generator which accepts user input.  
 - Contributed articles covering essential web development concepts and algorithmic topics.  
-- Worked on multiple projects involving HTML/CSS and JavaScript like [Car Racing Game](https://github.com/OpenGenus/car-racing-HTML).  
+- Worked on multiple projects involving HTML/CSS and JavaScript like Car Racing Game: github.com/OpenGenus/car-racing-HTML  
 
 ### Full-Stack Web Developer | Suhbah Collective
 **May 2023 – July 2023**  
 **Tech Stack:** React.JS, Node.js, Express.js, MongoDB/Mongoose  
-- Developed Full-Stack MERN application performing large amounts of data handling from 1 MongoDB Cluster and 7 Collections - [MN Muslims](https://mnmuslims.netlify.app)  
-- Implemented multiple request methods from React to Node API such as CREATE, PATCH, DELETE, and GET - [API Link](https://mnmuslims-api.onrender.com/api/businesses)  
+- Developed Full-Stack MERN application performing large amounts of data handling from 1 MongoDB Cluster and 7 Collections - MN Muslims: mnmuslims.netlify.app  
+- Implemented multiple request methods from React to Node API such as CREATE, PATCH, DELETE, and GET - API Link: mnmuslims-api.onrender.com/api/businesses  
 - Added functionality such as adding announcements, adding businesses, and deleting businesses.  
 
 ---
@@ -56,21 +56,21 @@ My interest in coding started in 2020 when I explored what could be achieved thr
 ## 🚀 PROJECTS
 
 ### Task Tracker Application
-🔗 [Live App](https://m3rn-task-app.netlify.app) | 📚 [GitHub Repo](https://github.com/N00rAhmed/MERN-Frontend)  
+🔗 Live App: m3rn-task-app.netlify.app | 📚 GitHub Repo: github.com/N00rAhmed/MERN-Frontend  
 **Tech Stack:** MongoDB/Mongoose + Express.js + React.js + Node.js  
 - Integrated MongoDB with Node/Express CRUD API.  
 - Used CREATE, POST, UPDATE requests to create CRUD API.  
 - Created UI using React.js and integrated API functionality in React by using `useState` and `fetch` method.  
 
 ### Word Combination Generator
-🔗 [Live App](https://word-combination-generator.onrender.com) | 📚 [GitHub Repo](https://github.com/N00rAhmed/Word-Combination-Generator)  
+🔗 Live App: word-combination-generator.onrender.com | 📚 GitHub Repo: github.com/N00rAhmed/Word-Combination-Generator  
 **Tech Stack:** HTML5/CSS, Python + Unittest + Docker + JavaScript  
 - Implemented Counter class to keep track of user input comparing it with JSON data.  
 - Used for loops to loop over user input and JSON data to perform a condition check.  
 - Created unit testing with the `unittest` library and dockerized the application.  
 
 ### Worklist Manager
-📚 [GitHub Repo](https://github.com/N00rAhmed/Task-Manager/releases/)  
+📚 GitHub Repo: github.com/N00rAhmed/Task-Manager/releases/  
 **Tech Stack:** C#, CockroachDB (SQL)  
 - Improved code quality by refactoring the codebase to use a single connection string.  
 - Created a login system by verifying if user input matches details from the database.  
@@ -81,9 +81,9 @@ My interest in coding started in 2020 when I explored what could be achieved thr
 ## ✍️ PUBLICATIONS
 
 ### Hashnode
-🔗 [Hashnode Profile](https://noor-ahmed.hashnode.dev)  
+🔗 Hashnode Profile: noor-ahmed.hashnode.dev  
 - Written and published multiple articles on various concepts and projects in software development.  
-- One of my popular articles, with nearly 200 views: [Create and Deploy Image API](https://noor-ahmed.hashnode.dev/create-and-deploy-image-api)  
+- One of my popular articles, with nearly 200 views: Create and Deploy Image API: noor-ahmed.hashnode.dev/create-and-deploy-image-api  
 
 ---
 
@@ -105,9 +105,9 @@ My interest in coding started in 2020 when I explored what could be achieved thr
 ## 📜 CERTIFICATES
 
 - **Couch to Coder Python Certification Program** | Bright Network  
-  [Certificate Link](https://shorturl.at/bloEO)  
+  Certificate Link: shorturl.at/bloEO  
   Skills: Python, Pip, Excel, Algorithms & Data Structures  
 
 - **Software Engineering Virtual Experience Program** | Commonwealth Bank  
-  [Certificate Link](https://shorturl.at/jovD7)  
+  Certificate Link: shorturl.at/jovD7  
   Skills: C#, MongoDB, Unit Testing, TypeScript, Git Version Control  
